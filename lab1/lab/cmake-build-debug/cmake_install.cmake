@@ -1,4 +1,4 @@
-# Install script for directory: /Users/viktorkindrat/CLionProjects/untitled
+# Install script for directory: /Users/viktorkindrat/Workspace/NULP/algo_part_3/labs/lab1/lab
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/viktorkindrat/CLionProjects/untitled/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/viktorkindrat/Workspace/NULP/algo_part_3/labs/lab1/lab/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
