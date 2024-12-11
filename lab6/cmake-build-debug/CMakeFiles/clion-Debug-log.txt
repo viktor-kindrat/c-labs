@@ -1,1 +1,1 @@
-CMakeLists.txt not found in /Users/viktorkindrat/Workspace/NULP/algo_part_3/labs/lab6 Select CMakeLists.txt
+CMakeLists.txt not found in /Users/viktorkindrat/Workspace/NULP/algos_part_3/labs/lab6 Select CMakeLists.txt
